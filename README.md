@@ -29,14 +29,14 @@
 </p>
 
 
-### :man_student: Мои дипломные проекты в Школе автоматизации тестирования QA GURU
+## :man_student: Мои дипломные проекты в Школе автоматизации тестирования [QA GURU](https://qa.guru/)
 
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom">Имя проекта</td><td valign="middle">Ссылка на GitHub</td></tr>
-    <tr><td width="30%" valign="bottom">diploma_project_ui</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_ui</td>
-    <tr><td width="30%" valign="bottom">diploma_project_mobile</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_mobile</td></tr>
-    <tr><td width="30%" valign="bottom">diploma_project_api</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_api</td></tr>
+    <tr><td width="30%" valign="bottom">:memo: diploma_project_ui</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_ui</td>
+    <tr><td width="30%" valign="bottom">:memo: diploma_project_mobile</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_mobile</td></tr>
+    <tr><td width="30%" valign="bottom">:memo: diploma_project_api</td><td valign="middle">https://github.com/ostepovoyv/diploma_project_api</td></tr>
    </tr>
   </table>
   </br>
